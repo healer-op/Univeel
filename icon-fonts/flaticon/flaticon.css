@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+  display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  display: block;
+}
+
+.flaticon-001-contract:before { content: "\f100"; }
+.flaticon-002-team:before { content: "\f101"; }
+.flaticon-003-conference:before { content: "\f102"; }
+.flaticon-004-desk:before { content: "\f103"; }
+.flaticon-005-teamwork:before { content: "\f104"; }
+.flaticon-006-chart:before { content: "\f105"; }
+.flaticon-007-skill:before { content: "\f106"; }
+.flaticon-008-person:before { content: "\f107"; }
+.flaticon-009-businessman:before { content: "\f108"; }
+.flaticon-010-team:before { content: "\f109"; }
+.flaticon-011-ladder:before { content: "\f10a"; }
+.flaticon-012-user:before { content: "\f10b"; }
+.flaticon-013-client:before { content: "\f10c"; }
+.flaticon-014-winner:before { content: "\f10d"; }
+.flaticon-015-security:before { content: "\f10e"; }
+.flaticon-016-employee:before { content: "\f10f"; }
+.flaticon-017-teamwork:before { content: "\f110"; }
+.flaticon-018-laptop:before { content: "\f111"; }
+.flaticon-019-user:before { content: "\f112"; }
+.flaticon-020-friendship:before { content: "\f113"; }
+.flaticon-021-bussiness-man:before { content: "\f114"; }
+.flaticon-022-creative:before { content: "\f115"; }
+.flaticon-023-mountain:before { content: "\f116"; }
+.flaticon-024-office:before { content: "\f117"; }
+.flaticon-025-speaker:before { content: "\f118"; }
+.flaticon-026-employee:before { content: "\f119"; }
+.flaticon-027-clipboard:before { content: "\f11a"; }
+.flaticon-028-employee:before { content: "\f11b"; }
+.flaticon-029-skill:before { content: "\f11c"; }
+.flaticon-030-network:before { content: "\f11d"; }
+.flaticon-031-stairs:before { content: "\f11e"; }
+.flaticon-032-stick-man:before { content: "\f11f"; }
+.flaticon-033-globe:before { content: "\f120"; }
+.flaticon-034-connection:before { content: "\f121"; }
+.flaticon-035-glass:before { content: "\f122"; }
+.flaticon-036-man:before { content: "\f123"; }
+.flaticon-037-profile:before { content: "\f124"; }
+.flaticon-038-group:before { content: "\f125"; }
+.flaticon-039-man:before { content: "\f126"; }
+.flaticon-040-exit:before { content: "\f127"; }
+.flaticon-041-security:before { content: "\f128"; }
+.flaticon-042-checklist:before { content: "\f129"; }
+.flaticon-043-application:before { content: "\f12a"; }
+.flaticon-044-contract:before { content: "\f12b"; }
+.flaticon-045-clock:before { content: "\f12c"; }
+.flaticon-046-profile:before { content: "\f12d"; }
+.flaticon-047-strategic:before { content: "\f12e"; }
+.flaticon-048-bulb:before { content: "\f12f"; }
+.flaticon-049-event:before { content: "\f130"; }
+.flaticon-050-tools:before { content: "\f131"; }

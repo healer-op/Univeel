@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Hunter River';
+    src: url('HunterRiver-Regular.eot');
+    src: url('HunterRiver-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('HunterRiver-Regular.woff2') format('woff2'),
+        url('HunterRiver-Regular.woff') format('woff'),
+        url('HunterRiver-Regular.ttf') format('truetype'),
+        url('HunterRiver-Regular.svg#HunterRiver-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hunter River';
+    src: url('HunterRiver-Regular_1.eot');
+    src: url('HunterRiver-Regular_1d41d.eot?#iefix') format('embedded-opentype'),
+        url('HunterRiver-Regular_1.woff2') format('woff2'),
+        url('HunterRiver-Regular_1.woff') format('woff'),
+        url('HunterRiver-Regular_1.ttf') format('truetype'),
+        url('HunterRiver-Regular_1.svg#HunterRiver-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
