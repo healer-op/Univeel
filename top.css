@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    user-select: none;
+}
+body{
+    background: url(https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  text-shadow: 0.06rem 0 0.06rem #ea36af, -0.125rem 0 0.06rem #75fa69;
+         letter-spacing: 0.125em;
+         animation-duration: 0.01s;
+         animation-name: textflicker;
+         animation-iteration-count: infinite;
+         animation-direction: alternate;
+}
+.gg{
+    color: white;
+    padding:50px 100px;
+    width: 50%;
+    height: 10%;
+    background: linear-gradient(255,255,255,0.05);
+    margin: 20px 0px;
+    margin-left:20%;
+    margin-right: 20%;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+}
+.gg1{
+    color: white;
+    padding:50px 100px;
+    width: 50%;
+    height: 10%;
+    background: linear-gradient(255,255,255,0.05);
+    margin: 20px 0px;
+    margin-left:20%;
+    margin-right: 20%;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+}
+p{
+    padding: 0px 40px;
+}
+.name{
+    margin-top: -1%;
+    font-size: 40px;
+}
+.img:hover{
+    z-index:-1000;
+
+}
+
+  @keyframes textflicker {
+    from {
+      text-shadow: 1px 0 0 #ea36af, -2px 0 0 #75fa69;
+    }
+    to {
+      text-shadow: 2px 0.5px 2px #ea36af, -1px -0.5px 2px #75fa69;
+    }
+  }
